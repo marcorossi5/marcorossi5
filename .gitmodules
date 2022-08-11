@@ -1,0 +1,3 @@
+[submodule "assets/pdf"]
+	path = assets/pdf
+	url = git@github.com:marcorossi5/resume-private.git
