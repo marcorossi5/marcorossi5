@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Marco Rossi, a physicist focused on Artificial Intelligence research.
+
+Please, find below my contacts:
+
+- Visit my personal Website &nbsp; <a href="https://marcorossi.dev"> <img src="assets/icons/world-icon.png" height="30" /> </a>
+- Contact me &nbsp; <a href="mailto:rssmrc.11@gmail.com"> <img src="assets/icons/mail-icon.png" height="30" /> </a>
+- Download my CV &nbsp;  <a href="https://marcorossi.dev/assets/pdf/resume_marco_rossi_en.pdf"> <img src="assets/icons/resume-icon.png" height="30" /> </a>
+
 <!--
 **marcorossi5/marcorossi5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
